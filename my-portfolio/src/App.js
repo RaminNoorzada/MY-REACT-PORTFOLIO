@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./components/Header";
 import Project from "./components/Project";
 import Footer from "./components/Footer";
+import "./App.css"; // Import the CSS file
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       {/* About */}
       {/* Portfolio */}
       {/* Contact */}
-      <section>
+      <section className="portfolio-section">
         <h1>Portfolio</h1>
         <Project
           title="Project Title"
