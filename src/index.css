@@ -163,7 +163,7 @@ li {
 }
 
 header {
-  height: 200px;
+  height: auto;
   position: relative;
   overflow: hidden;
   z-index: 2;
