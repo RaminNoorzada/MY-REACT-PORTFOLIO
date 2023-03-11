@@ -5,7 +5,7 @@ function Portfolio() {
 
     const [projects] = useState([
         {
-            name: 'pexels-black',
+            name: 'Time-Quiz-Game',
             description: 'HTML,CSS/JavaScript',
             link: "https://github.com/RaminNoorzada",
             repo: "https://github.com/RaminNoorzada/Time-Quiz-Challenge"
