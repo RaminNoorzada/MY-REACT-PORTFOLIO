@@ -29,11 +29,7 @@ The application is organized into several sections, each represented by a compon
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-. The Create React App team for creating such a great tool.
-. The React team for creating such a powerful library.
-. The React Router team for creating such a useful library.
 
 ## Deployed Page:
 
-
+![Alt text](../../Page%20Function.png)
