@@ -32,4 +32,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Deployed Page:
 
-![Alt text](../../Page%20Function.png)
+![Alt text](./src/assets/image/Page-Function.png)
