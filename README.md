@@ -32,4 +32,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Deployed Page:
 
+[Deployed link here](https://raminnoorzada.github.io/MY-REACT-PORTFOLIO/)
+
 ![Alt text](./src/assets/image/Page-Function.png)
