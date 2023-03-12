@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MY-REACT-PORTFOLIO/static/css/main.f34bb019.css",
+    "main.js": "/MY-REACT-PORTFOLIO/static/js/main.4b2a2ea3.js",
+    "static/media/Work-Day-Sch.jpg": "/MY-REACT-PORTFOLIO/static/media/Work-Day-Sch.386dcd4a60fb99210d7d.jpg",
+    "static/media/Note-Taker.jpg": "/MY-REACT-PORTFOLIO/static/media/Note-Taker.199e9cb5767c62b43ac2.jpg",
+    "static/media/cover-image.jpg": "/MY-REACT-PORTFOLIO/static/media/cover-image.25b601d682cac9646e91.jpg",
+    "static/media/Team-Profile-Gen.jpg": "/MY-REACT-PORTFOLIO/static/media/Team-Profile-Gen.e3c93256f63acdf82f63.jpg",
+    "static/media/Time-Quiz-Game.jpg": "/MY-REACT-PORTFOLIO/static/media/Time-Quiz-Game.e4d3512fcacc68324381.jpg",
+    "index.html": "/MY-REACT-PORTFOLIO/index.html",
+    "main.f34bb019.css.map": "/MY-REACT-PORTFOLIO/static/css/main.f34bb019.css.map",
+    "main.4b2a2ea3.js.map": "/MY-REACT-PORTFOLIO/static/js/main.4b2a2ea3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f34bb019.css",
+    "static/js/main.4b2a2ea3.js"
+  ]
+}
